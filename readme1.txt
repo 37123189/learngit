@@ -8,3 +8,4 @@ Creating a new branch is quick smiple
 =======
 Creating a new branch is quick simple.
 >>>>>>> featurel
+Everything up-to-date
