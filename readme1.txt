@@ -8,4 +8,8 @@ Creating a new branch is quick smiple
 =======
 Creating a new branch is quick simple.
 >>>>>>> featurel
+<<<<<<< HEAD
 Everything up-to-date
+=======
+dd coding: utf-8
+>>>>>>> 8deddeb6d6d669a48861a32373a089b604784ba7
